@@ -1,4 +1,4 @@
-text = 'mrttaqrhknsw ih puggrur'
+text = input('Enter a text: ')
 custom_key = 'python'
 
 def vigenere(message, key, direction=1):
